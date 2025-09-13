@@ -24,9 +24,9 @@
         easing:easeInOutElastic;
         " 
         animation__2="
-        property: scale;
-        to: 0 0 0;
-        startEvents: click;
+        property:scale;
+        to:0 0 0;
+        startEvents:click;
         "</a-box>
             
         <a-sphere
@@ -34,17 +34,17 @@
         radius="1" 
         color="yellow"
         animation="
-        property: position;
-        from: 25 25 -35;
-        to: 0 1 -5;
-        dur: 9000;
-        dir: alternate;
-        loop: true;
+        property:position;
+        from:25 25 -35;
+        to:0 1 -5;
+        dur:9000;
+        dir:alternate;
+        loop:true;
         "
         animation__2="
-        property: scale;
-        to: 0 0 0;
-        startEvents: click;
+        property:scale;
+        to:0 0 0;
+        startEvents:click;
         " ></a-sphere>
         
         <a-cylinder position="3 5 -3" 
@@ -52,35 +52,35 @@
         height="1.5" 
         color="#FFC65D"
         animation="
-        property: position;
-        from: 3 5 -3;
-        to: 0 5 -20;
-        dur: 7000;
-        dir: alternate;
+        property:position;
+        from:3 5 -3;
+        to:0 5 -20;
+        dur:7000;
+        dir:alternate;
         loop:true;
-        easing: easeInOutElastic;
+        easing:easeInOutElastic;
         "
         animation__2="
-        property: scale;
-        to: 0 0 0;
-        startEvents: click;
+        property:scale;
+        to:0 0 0;
+        startEvents:click;
         "></a-cylinder>
 
         <a-sphere position="24 8 -7" 
         radius="1" 
         color="red"
         animation="
-        property: position;
+        property:position;
         from:24 8 -7;
-        to: 0 8 10;
-        loop: true;
-        dur: 10000;
-        dir: alternate;
-        easing: easeInOutBack;" 
+        to:0 8 10;
+        loop:true;
+        dur:10000;
+        dir:alternate;
+        easing:easeInOutBack;" 
         animation__2="
-        property: scale;
-        to: 0 0 0;
-        startEvents: click;
+        property:scale;
+        to:0 0 0;
+        startEvents:click;
         "
         <a-box position="-20 1 -10" 
         depth="2" 
@@ -88,13 +88,13 @@
         width="2" 
         color="tomato"
         animation="
-        property: position;
-        from: -20 1 -10;
-        to: 5 2 7;
-        dir: alternate;
-        loop: true;
-        dur: 1000;
-        easing: easeInOutElastic;
+        property:position;
+        from:-20 1 -10;
+        to:5 2 7;
+        dir:alternate;
+        loop:true;
+        dur:1000;
+        easing:easeInOutElastic;
         "
         ></a-box>
         
