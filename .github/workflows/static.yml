@@ -16,12 +16,12 @@
         color="green"
         animation="
         property:position;
-        from: 0 2 5;
-        to: 0 2 7;
-        dir: alternate;
-        loop: true;
-        dur: 1000;
-        easing: easeInOutElastic;
+        from:0 2 5;
+        to:0 2 7;
+        dir:alternate;
+        loop:true;
+        dur:1000;
+        easing:easeInOutElastic;
         " 
         animation__2="
         property: scale;
