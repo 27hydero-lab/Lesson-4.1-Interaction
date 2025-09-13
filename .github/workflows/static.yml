@@ -15,7 +15,7 @@
         width="2" 
         color="green"
         animation="
-        property: position;
+        property:position;
         from: 0 2 5;
         to: 0 2 7;
         dir: alternate;
